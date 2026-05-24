@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="mailto:17jeramos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-17jeramos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-17jeramos%40gmail.com-D97706?style=flat-square&logo=gmail&logoColor=white&labelColor=6B7280" />
   </a>
   <a href="https://github.com/jeramos28">
-    <img src="https://img.shields.io/badge/GitHub-jeramos28-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-jeramos28-111827?style=flat-square&logo=github&logoColor=white&labelColor=374151" />
   </a>
   <a href="https://www.linkedin.com/in/17jeramos">
-    <img src="https://img.shields.io/badge/LinkedIn-José%20Eduardo%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Eduardo%20Ramos-0284C7?style=flat-square&logo=linkedin&logoColor=white&labelColor=475569" />
   </a>
 </p>
 
@@ -103,3 +103,10 @@ Databases & Optimization
 ├── MySQL
 ├── MongoDB
 └── SQLite
+
+---
+## 📫 Contact
+
+- Email: **17jeramos@gmail.com**
+- GitHub: **github.com/jeramos28**
+- LinkedIn: **www.linkedin.com/in/17jeramos**
