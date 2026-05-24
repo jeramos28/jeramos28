@@ -83,12 +83,14 @@ I also have full stack experience with **Python, FastAPI, Angular, TypeScript, J
 
 ```txt
 Odoo ERP Development
-├── Custom modules
-├── Third-party module customization
-├── Views, reports and workflows
-├── Odoo.sh deployments
-├── Odoo 15+ migrations
-└── Sales, Inventory, Accounting, Website and eCommerce
+├── Custom modules and third-party module customization
+├── Views, reports, workflows and business logic
+├── Odoo.sh deployments and version migrations
+├── Sales, CRM and Invoicing
+├── Inventory, Purchase and Accounting
+├── Website, eCommerce and Point of Sale
+├── Manufacturing and Project Management
+└── Human Resources, Marketing and Productivity modules
 
 Python Backend Development
 ├── REST API design and integration
