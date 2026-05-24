@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="mailto:17jeramos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-17jeramos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-17jeramos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/17jeramos">
-    <img src="https://img.shields.io/badge/GitHub-17jeramos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jeramos28">
+    <img src="https://img.shields.io/badge/GitHub-jeramos28-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/17jeramos">
+  <a href="https://www.linkedin.com/in/17jeramos">
     <img src="https://img.shields.io/badge/LinkedIn-José%20Eduardo%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
